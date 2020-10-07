@@ -2,7 +2,7 @@
   <samp>
     Hello there. I'm Abhishek Kujur.
     <br />
-    I'm a Competititive Coder, Game Developer.
+    I'm a Competititive Coder & Game Developer.
     <br />
     Experimenting with 3D Modelling.
     <br />
