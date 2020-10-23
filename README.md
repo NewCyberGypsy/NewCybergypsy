@@ -4,7 +4,7 @@
     <br />
     I'm a Competititive Coder & Game Developer.
     <br />
-    Experimenting with 3D Modelling.
+    Experimenting with 3D Modelling & Flutter.
     <br />
     <br />
     #c++, #c#, #unity, #blender
