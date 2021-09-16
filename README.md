@@ -4,7 +4,7 @@
     <br />
     I'm a Flutter Developer & Competititive Coder.
     <br />
-    Experimenting with Backend Developing.
+    Experimenting with Backend Development.
     <br />
     <br />
     #c++, #flutter, #dart, #javascript
