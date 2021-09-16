@@ -2,12 +2,12 @@
   <samp>
     Hello there. I'm Abhishek Kujur.
     <br />
-    I'm a Competititive Coder & Game Developer.
+    I'm a Flutter Developer & Competititive Coder.
     <br />
-    Experimenting with 3D Modelling & Flutter.
+    Experimenting with Backend Developing.
     <br />
     <br />
-    #c++, #c#, #unity, #blender
+    #c++, #flutter, #dart, #javascript
   </samp>
   <br />
   <br />
