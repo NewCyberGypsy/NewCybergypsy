@@ -1,14 +1,13 @@
 <p align="center">
-  <samp>
-    Hello there. I'm Abhishek Kujur.
-    <br />
-    I'm a Flutter Developer & Competititive Coder.
-    <br />
-    Experimenting with Backend Development.
-    <br />
-    <br />
-    #c++, #flutter, #dart, #javascript
-  </samp>
+
+  Hello there. I'm Abhishek Kujur.
+  <br />
+  I'm a Full Stack Developer.
+  <br />
+  Experimenting with new languages and framework.
+  <br />
+  <br />
+  #java #c++ #javascript #typescript
   <br />
   <br />
   <img
