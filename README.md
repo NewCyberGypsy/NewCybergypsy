@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <span>
     Hello there. I'm Abhishek Kujur.
     <br />
@@ -7,7 +7,7 @@
     Experimenting with new languages and frameworks.
     <br />
     <br />
-    #java #c++ #javascript #typescript
+    #java #svelte #go #js #ts #cpp #c #bash
     </span>
     <br />
     <br />
